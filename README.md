@@ -1,7 +1,7 @@
 # Game_Kaixu
 Game Development Log
 ## Type of the game
-RPG
+RPG games
 
 ## Contributors
 - XU 
