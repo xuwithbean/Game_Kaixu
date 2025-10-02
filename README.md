@@ -2,7 +2,6 @@
 Game Development Log
 ## Type of the game
 RPG games
-
 ## Contributors
 - XU 
 - anker
